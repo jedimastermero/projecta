@@ -2,7 +2,7 @@ variable "port" {
 
   description = "WEB server default port"
   type = number
-  default = 8080
+  default = 8081
 
 }
 variable "test_list" {
